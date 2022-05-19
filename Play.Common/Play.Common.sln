@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play.Common", "Play.Common\Play.Common.csproj", "{CA3EC070-518C-4318-B0DB-DA1348C3237A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA3EC070-518C-4318-B0DB-DA1348C3237A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA3EC070-518C-4318-B0DB-DA1348C3237A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA3EC070-518C-4318-B0DB-DA1348C3237A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA3EC070-518C-4318-B0DB-DA1348C3237A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
